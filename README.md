@@ -1,14 +1,13 @@
 ## ✅ `README.md`
 
-```markdown
+
 # Teste Técnico - Comunicação via Sockets TCP e UDP
 
 Este projeto contém duas aplicações Java desenvolvidas para fins de teste técnico, simulando comunicação via sockets TCP e UDP com suporte a multi-threading:
 
 - **Receptor**: Servidor que recebe dados via TCP e UDP.
-- **Produtor**: Cliente que envia dados (ASCII ou binário) via TCP e UDP.
+- **Produtor**: Cliente que envia dados (ASCII ou binário) via TCP e UDP a partir de um arquivo de entrada.
 
-```
 
 ## 🧱 Estrutura do Projeto
 
